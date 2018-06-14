@@ -1,0 +1,4 @@
+﻿#id	img	url	toy_id	model
+1	http://zww.ooxxp.com/zwwimg/toy_banner9.jpg	http://zww.ooxxp.com/notice/2018aim_des.html		
+2	http://zww.ooxxp.com/zwwimg/toy_banner13.jpg	http://zww.ooxxp.com/notice/fudai20180330.html		
+3	http://zww.ooxxp.com/zwwimg/toy_banner20.jpg			

@@ -1,0 +1,5 @@
+﻿$概率档位	1号概率	2号概率	3号概率
+#rate_gear	rate_1	rate_2	rate_3
+normal_rate	40	30	30
+win_rate	40	0	60
+lose_rate	20	70	10

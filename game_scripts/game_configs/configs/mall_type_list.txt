@@ -1,0 +1,9 @@
+﻿$		
+#id	name	show_type
+1	红包	hongbao
+2	精选	jinxuan
+3	家电	jiadian
+4	数码	shuma
+5	食品	shipin
+6	日用	riyong
+7	其它	qita

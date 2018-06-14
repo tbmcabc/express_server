@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head >
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+	<meta name="description" content="">
+	<meta name="author" content="">	
+	<script type="text/javascript">
+		function openView(){			
+			 document.location = "js://webview?arg1=111&arg2=222";
+		}
+	    function setAddress(first, address){
+	    	document.getElementById("txtFirst").innerText = first
+	   	 	document.getElementById("txtAddress").innerText = address
+	    }
+	    function setAddressIOS(address){
+	    	document.getElementById("txtFirst").innerText = address.name + "  " + address.phone
+	   	 	document.getElementById("txtAddress").innerText = address.area_str + address.address
+	    }
+	</script>
+</head>
+<style>
+	html,body{
+		min-width: 320px;
+	}
+    .alsp{ font-family:"黑体";}
+    body {
+    	margin: 0px;
+		background: #F7F7F7;
+	}
+
+
+  	.red-text {
+    color: red;
+  	}
+   .huise-text {
+	    color: #888888;
+	    margin-left: 15px;
+	    font-size: 15px;
+	  }
+ 	.huise2 {
+	    color: #888888;
+	    margin-left: 0px;
+	    font-size: 14px;
+	  }
+  	.jiage {
+    font-size: 36px;
+    margin-left: 15px;
+  }
+  	.jindong{
+  	font-size: 22px;
+  	margin-left: 15px;
+    }
+  	.jifen{
+  	font-size: 18px;
+  	
+    }
+	.banner {
+		margin-top: 5px;
+		margin-left: 15px;
+		width: 100vw;
+		height: 105px;
+		background: #eeeeee
+	}
+    .banner1 {
+		margin-top: 0px;
+		margin-left: 0px;
+		width: 100vw;
+		height: 2px;
+		background: #eeeeee
+	}
+ 	.banner2 {
+		margin-top: 5px;
+		margin-left: 0px;
+		width: 100vw;
+		height: 2px;
+		background: #eeeeee
+	}
+	
+	.zishiying img{width:100%;height:100%;}	
+	.zishiying2 img{width:100%;height:8px;margin-top: 12px;}	
+     input {border: 1px solid #D0CCCC;
+     		height: 26px;
+     		width: 220px;
+     }
+</style>
+<body class="alsp">
+
+	<div style="text-align:center" class="zishiying">
+		<img src="http://zww.ooxxp.com/zwwimg/dh_1038.png">
+		<!-- <img src="\Users\Administrator\Desktop\qb_da10.png"> -->
+	</div>
+	<div class="banner1">
+	</div>
+	<div >
+		</br>
+		<div class="jindong"><strong>膳魔师真空保温杯</strong></div>
+
+		<label class="red-text jiage">22500</label><label class="red-text jifen">积分 </label>
+		<del style="color: #888888;">¥225.0</del>
+		<div style="float: right;font-size: 15px;color: #888888;margin-right: 15px;">运费：包邮</div>
+		
+	
+	</div>
+
+	<div class="banner2">
+	</div>
+
+	<div onclick="openView()">		
+			</br ><label style="font-size: 10px;margin-left: 15px;color: #888888;">▶</label>
+			<label style="color: #888888;font-size: 15px;">配送至：</label>
+			<label id="txtFirst" style="font-size: 15px;">您还未填写收货信息，马上填写</label></br>
+			<label id="txtAddress" style="font-size: 15px;margin-left: 100px;"></label>
+			</br>
+	</div>
+	<div   class="zishiying2 ">
+		<img src="http://zww.ooxxp.com/zwwimg/tiao_01.png">
+	</div>
+
+	<div style="margin-top: 5px;">
+		<label  style="font-size: 10px;margin-left: 15px;color: #888888;">▶</label>
+			<label style="color: #888888;font-size: 14px;">详情说明：</label></br>
+		<div class="banner2">
+	    </div></br>
+	</div>
+	<div  style="margin-left: 15px;margin-right: 15px;">
+	    	<strong><label>商品详情</label></strong>
+	    	<ul>
+  			<li>品名：膳魔师真空保温杯</li>
+  			<li>颜色：颜色随机</li>
+  			<li>材质: 304不锈钢</li>
+  			</ul>
+	
+    </br>
+	</div>
+	<div  style="margin-left:15px;margin-right: 15px;">
+	    	<strong><label>特别说明</label></strong>
+	    	<ul>
+  			<li>新疆、西藏、青海、宁夏、内蒙古、甘肃地区不在包邮范围</li>
+  			<li style="color: red;">若因地质不详、联系号码错误、停机等个人原因导致快递多次配送不成功，延期退回后我们将不再进行二次发货，敬请谅解</li>
+  			<!--<li>说明：铁</li>-->
+			</ul>
+    </br>
+	</div>
+	</br>
+	<div   class="zishiying2 ">
+		<img src="http://zww.ooxxp.com/zwwimg/tiao_01.png">
+	</div>
+	<div style="margin-top: 5px;">
+		<label  style="font-size: 10px;margin-left: 15px;color: #888888;">▶</label>
+			<label style="color: #888888;font-size: 14px;">详情说明：</label></br>
+		<div class="banner2">
+	    </div></br>
+	</div>
+	<div  style="margin-left:15px;margin-right: 15px;">
+	    	
+	    	<ul style="color:#888888;font-size: 15px;">
+  			<li>除商品本身不能正常兑换外，商品一经兑换，一律不退换积分，请用户兑换前仔细参照使用规则、使用说明、等有效重要信息；</li>
+  			<li>通过非法途径获得积分后进行的正常兑换行为，或不按商品使用规则行进兑换，我们将有权不提供服务；</li>
+  			<li>凡以不正当手段（包括但不限于作弊、扰乱系统、实施网络攻击等）进行兑换，我们有权终止该兑换</li>
+	
+    </br>
+	</div>
+</body>
+
+</html>

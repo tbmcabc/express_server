@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head >
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+	<meta name="description" content="">
+	<meta name="author" content="">	
+
+	<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+	<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+	<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</head>
+
+<body style="margin: 0px;background: #F7F7F7;">
+
+
+	<div style="text-align:center; height: 500px;overflow: auto;" id="div_replay">
+<!-- 		<div style="height: 70px;background:#ddd;border-radius: 5px;margin-top: 5px;margin-left: 5px;margin-right: 5px;">
+			<div class="col-xs-3"><img src="http://zww.ooxxp.com/zwwimg/costs_01.jpg" style="height: 60px;width: 60px;float: left;margin-left: 0px;margin-top: 5px;border-radius: 50%;"></div>
+			<div class="col-xs-9" style="text-align: left;margin-top: 4px;margin-left: -15px;">
+				<label style="font-size: 15px;font-weight: normal;">454545</label>
+			</div>
+		</div> -->
+	</div>
+	
+	<div style="height: 200px;position: fixed;bottom: 0; width: 100%; padding-top: 10px;
+			padding-left: 10px;padding-right: 10px;" >
+			<textarea id="txt_question" class="form-control" rows="5" placeholder = "您有任何的意见和建议可以在这里输入进行反馈"></textarea>
+
+			<button id="submit" type="button" class="btn btn-danger btn-lg" onclick="onClickSubmit()">提交反馈</button>
+	</div>
+
+	<script type="text/javascript">
+		function getQueryString(name){
+	         var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+	         var r = window.location.search.substr(1).match(reg);
+	         if(r!=null) return  r[2]; return null;
+	    }
+	    var pid = ""
+		$(document).ready(function() { 
+			pid = getQueryString("pid")
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+			    
+			};
+			xhr.onreadystatechange = function() {
+				if ( xhr.readyState == 4 && xhr.status == 200 ) {
+	                var logs = JSON.parse(xhr.responseText)
+	                var txt = ""
+	                for(var i = 0 ; i < logs.logs.length ; i++){
+	                	$('#div_replay').append('<div style="height: 70px;background:#ddd;border-radius: 5px;margin-top: 5px;margin-left: 5px;margin-right: 5px;"><div class="col-xs-3"><img src="http://zww.ooxxp.com/zwwimg/costs_01.jpg" style="height: 60px;width: 60px;float: left;margin-left: 0px;margin-top: 5px;border-radius: 50%;"></div><div class="col-xs-9" style="text-align: left;height:60px;margin-top: 4px;margin-left: -15px;"><label style="height:50px; font-size: 15px;font-weight: normal;">'+logs.logs[i]+'</label></div></div>');
+	                }	                
+	            }
+			};
+			xhr.open("get", "http://106.75.92.180:4000/question/c2s_get_reply?pid=" + pid, true);
+			xhr.send();
+		})
+
+		function onClickSubmit(){
+			var txt_question = $("#txt_question")
+			var quest = txt_question.val()
+			if(quest == ""){
+				console.log("提交反馈的内容不能为空")
+				return;
+			}
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+
+			};
+			xhr.onreadystatechange = function() {
+				if ( xhr.readyState == 4 && xhr.status == 200 ) {
+					console.log("提交反馈成功")
+	            }
+			};
+			txt_question.val("")
+			xhr.open("post", "http://106.75.92.180:4000/question/c2s_upload_question", true);
+			xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+			xhr.send("pid="+pid+"&msg=" + quest);
+		}
+		$('#submit').css({
+			position:'absolute',
+			left:(screen.width-300)/2,
+			marginTop:'10px',
+			width:'300px'
+		})
+		$('#div_replay').css({
+			height:screen.height-200+'px'
+		})
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+﻿#id	txt
+0	4
+1	竟然有这种操作！[NICK_NAME]抓到一个[TOY_NAME]，真是厉害。
+2	[NICK_NAME]抓到[TOY_NAME]一个，为Ta打call。
+3	[NICK_NAME]抓到[TOY_NAME]一个，实现了一个小目标。
+4	[NICK_NAME]使出洪荒之力，将[TOY_NAME]抓到。

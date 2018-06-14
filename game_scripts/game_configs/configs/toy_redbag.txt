@@ -1,0 +1,12 @@
+﻿$										
+#id	name	img	redbag	order	need_toy_id_1	need_toy_num_1	need_toy_id_2	need_toy_num_2	need_toy_id_3	need_toy_num_3
+1	kitty的红包包n内含10元微信红包	http://zww.ooxxp.com/zwwimg/hb01.png	10	6	61	1				
+2	Q哥哥的红包包n内含8元微信红包	http://zww.ooxxp.com/zwwimg/hb02.png	8	4	4	1				
+3	Q妹妹的红包包n内含8元微信红包	http://zww.ooxxp.com/zwwimg/hb03.png	8	5	17	1				
+4	开年红包n内含18元微信红包	http://zww.ooxxp.com/zwwimg/hb04.png	18	2	170	1				
+5	哆啦A梦的红包包n内含30元微信红包	http://zww.ooxxp.com/zwwimg/hb06.png	30	7	68	2				
+6	轻松熊的红包包n内含50元微信红包	http://zww.ooxxp.com/zwwimg/hb08.png	50	8	37	1				
+7	龙猫的红包包n内含100元微信红包	http://zww.ooxxp.com/zwwimg/hb10.png	100	9	34	1	31	1		
+8	熊本熊的红包包n内含100元微信红包	http://zww.ooxxp.com/zwwimg/hb12.png	100	10	163	1				
+9	开年红包n内含9元微信红包	http://zww.ooxxp.com/zwwimg/hb07.png	9	1	216	1				
+10	开年红包n内含58元微信红包	http://zww.ooxxp.com/zwwimg/hb05.png	58	3	217	1				

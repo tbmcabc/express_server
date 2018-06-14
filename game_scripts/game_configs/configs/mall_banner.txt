@@ -1,0 +1,3 @@
+﻿#id	img
+1	http://www.beoqb.cn/wawapic/1251.png
+2	http://www.beoqb.cn/wawapic/1252.png

@@ -1,0 +1,2 @@
+﻿#id	img	url	toy_id	model
+1	http://zww.ooxxp.com/zwwimg/home_banner.jpg			

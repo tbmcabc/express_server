@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head >
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+	<meta name="description" content="">
+	<meta name="author" content="">	
+
+	<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+	<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+	<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</head>
+
+<body style="margin: 0px;background: #F7F7F7;">
+
+	<div style="text-align:center; height: 500px;overflow: auto;" id="div_replay">
+
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+		<p>1111</p>
+	</div>
+	
+	<div style="background: gray; height: 200px;position: fixed;bottom: 0; width: 100%;
+			padding-left: 10px;padding-right: 10px;" >
+			<textarea id="txt_question" class="form-control" rows="5" placeholder = "您有任何的意见和建议可以在这里输入进行反馈"></textarea>
+
+			<button id="submit" type="button" class="btn btn-danger btn-lg" onclick="onClickSubmit()">提交</button>
+	</div>
+
+	<script type="text/javascript">
+		function getQueryString(name){
+	         var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+	         var r = window.location.search.substr(1).match(reg);
+	         if(r!=null) return  r[2]; return null;
+	    }
+	    var pid = ""
+		$(document).ready(function() { 
+			pid = getQueryString("pid")
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+			    
+			};
+			xhr.onreadystatechange = function() {
+				if ( xhr.readyState == 4 && xhr.status == 200 ) {
+	                //alert( "获取反馈结果成功："+xhr.responseText );
+	               // alert(xhr.responseText)
+	                var logs = JSON.parse(xhr.responseText)
+	                //alert(logs.logs.length)
+	                //alert("asasjas")
+	                var txt = ""
+	                for(var i = 0 ; i < logs.logs.length ; i++){
+	                	//txt = txt + logs.logs[i] + "\n"
+	                }
+	                alert(txt)
+	                //$("#div_replay").html(txt)
+	            }
+			};
+			xhr.open("get", "http://106.75.92.180:4000/question/c2s_get_reply?pid=" + pid, true);
+			xhr.send();
+		})
+
+		function onClickSubmit(){
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function () {
+			    
+			};
+			xhr.onreadystatechange = function() {
+				if ( xhr.readyState == 4 && xhr.status == 200 ) {
+	                //alert( "获取反馈结果成功："+xhr.responseText );
+	                alert(xhr.responseText)
+	                // var logs = JSON.parse(xhr.responseText)
+	                // var txt = ""
+	                // for(let i = 0 ; i < logs.logs.length ; i++){
+	                // 	txt = txt + logs.logs[i] + "\n"
+	                // }
+	                //$("#div_replay").html(txt)
+	            }
+			};
+			xhr.open("get", "http://106.75.92.180:4000/question/c2s_get_reply?pid=" + pid, true);
+			xhr.send();
+			//alert("adad")
+			// var txt_question = $("#txt_question")
+			// var quest = txt_question.val()
+			// if(quest == ""){
+			// 	console.log("提交反馈的内容不能为空")
+			// 	return;
+			// }
+			// var xhr = new XMLHttpRequest();
+			// xhr.onload = function () {
+
+			// };
+			// xhr.onreadystatechange = function() {
+			// 	if ( xhr.readyState == 4 && xhr.status == 200 ) {
+			// 		console.log("提交反馈成功")
+	  //           }
+			// };
+			// txt_question.val("")
+			// xhr.open("post", "http://106.75.92.180:4000/question/c2s_upload_question", true);
+			// xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+			// xhr.send("pid="+pid+"&msg=" + quest);
+		}
+		// $('#submit').css({
+		// 	position:'absolute',
+		// 	left:(screen.width-80)/2,
+		// 	marginTop:'10px',
+		// 	width:'80px'
+		// })
+		// $('#div_replay').css({
+		// 	height:screen.height-200+'px'
+		// })
+	</script>
+</body>
+
+</html>

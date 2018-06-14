@@ -1,0 +1,13 @@
+﻿$			显示平台	隐藏平台
+#id	name	show_type	in_plat	out_plat
+1	新鲜玩法	little_game		
+2	漫威	manwei		
+3	新品	xinpin		
+4	翻翻乐	fanfan	10002,10003,10004,10005,10006,10007,10008,10009,11007,11009,60002,60003	
+5	红包	hongbao		30000,30002,40000
+6	特价	xianshi		
+7	热抓	rezhua		
+8	生活	shenghuo		
+9	周边	zhoubian		
+10	公仔	gongzai		
+11	食品	shipin		

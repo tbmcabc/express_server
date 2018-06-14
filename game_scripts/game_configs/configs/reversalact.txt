@@ -1,0 +1,11 @@
+﻿$奖品ID	描述（N为换行符）	奖品名称	奖品图片	值(水线用)	免费概率开始	免费概率结束	收费盈利概率开始	收费盈利概率结束	收费亏损概率开始	收费亏损概率结束	类型	内容（娃娃为娃娃id，红包以分为单位，金币积分为数量）	消费	亏多送flag
+#id	describe	name	image_url	value	freep1	freep2	profitp1	profitp2	lossp1	lossp2	type	content	cost	flag
+1	10积分	10积分	http://zww.ooxxp.com/1ydb/fanfanscore.png	1	1	95	1 	27	1	42	score	10	10	
+2	0.8元红包	0.8元红包	http://zww.ooxxp.com/1ydb/fanfanredbag.png	8	96	100	28	57	43	67	redbag	80	10	
+3	1.2元红包	1.2元红包	http://zww.ooxxp.com/1ydb/fanfanredbag.png	12	1000	1000	58	87	68	92	redbag	120	10	
+4	1.5元红包	1.5元红包	http://zww.ooxxp.com/1ydb/fanfanredbag.png	15	1000	1000	88	97	93	98	redbag	150	10	
+5	2元红包	2元红包	http://zww.ooxxp.com/1ydb/fanfanredbag.png	20	1000	1000	98	98	99	99	redbag	200	10	
+6	5元红包	5元红包	http://zww.ooxxp.com/1ydb/fanfanredbag.png	50	1000	1000	99	99	100	100	redbag	500	10	
+7	10元红包	10元红包	http://zww.ooxxp.com/1ydb/fanfanredbag.png	100	1000	1000	100	100	1000	1000	redbag	1000	10	
+8	30元红包	30元红包	http://zww.ooxxp.com/1ydb/fanfanredbag.png	300	1000	1000	1000	1000	1000	1000	redbag	3000	10	1
+9	1.6米泰迪熊	1.6米泰迪熊	http://zww.ooxxp.com/1ydb/db2.png	480	1000	1000	1000	1000	1000	1000	toy	31	10	

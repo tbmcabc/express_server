@@ -1,0 +1,324 @@
+﻿																																	
+#id	dollRes	shadowX	shadowY	shadowSX	shadowSY	dollX	dollY	dollSX	dollSY	catchPointY	graspAngle	faceX	faceY	x1	y1	x2	y2	x3	y3	x4	y4	x5	y5	x6	y6	x7	y7	x8	y8	x9	y9	x10	y10
+1	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/101.png	0	0	1.2	1	0	0	1	1	-280	25	50	-220	200	700	520	700	360	800														
+2	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/102.png	0	0	1.2	1	0	0	1	1	-190	20	50	-150	200	700	520	700	360	800														
+3	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/103.png	0	0	1.2	1	0	0	1	1	-170	20	50	-100	200	700	520	700	360	800														
+4	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/104.png	0	0	1.2	1	0	0	1.3	1.3	-230	20	50	-180	200	700	520	700	360	800														
+5	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/105.png	0	0	1.2	1	0	0	0.9	0.9	-250	20	50	-180	200	700	520	700	360	800														
+6	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/106.png	0	0	1.2	1	0	0	0.9	0.9	-220	20	50	-180	200	700	520	700	360	800														
+7	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/107.png	0	0	1.2	1	0	0	1.1	1.1	-250	16	50	-180	200	700	520	700	360	800														
+8	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/108.png	0	0	1.2	1	0	0	1.1	1.1	-220	18	50	-180	200	700	520	700	360	800														
+9	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/109.png	0	0	1.2	1	0	0	1	1	-260	16	50	-180	200	700	520	700	360	800														
+10	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/110.png	0	0	1.5	1.2	0	0	1	1	-190	5	40	-80	200	750	520	750																
+11	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/111.png	0	0	1.2	1	0	0	1	1	-240	16	50	-180	200	700	520	700	360	800														
+12	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/112.png	0	0	1.4	1	0	0	1	1	-240	8	50	-180	200	750	520	750																
+13	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/113.png	0	0	1.4	1	0	0	1	1	-300	8	50	-200	200	750	520	750																
+14	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/114.png	0	0	1.3	1	0	0	0.8	0.8	-260	12	50	-180	200	750	520	750																
+15	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/115.png	0	0	1.3	1	0	0	0.7	0.7	-250	12	50	-180	200	750	520	750																
+16	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/116.png	0	0	1.5	1	0	0	0.7	0.7	-250	15	50	-200	220	750	500	750																
+17	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/117.png	0	0	1	1	0	0	0.5	0.5	-260	15	50	-180	200	700	520	700	360	800														
+18	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/118.png	0	-10	1	1	0	0	0.5	0.5	-250	20	50	-180	200	700	520	700	360	800														
+19	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/119.png	0	0	1	1	0	0	0.7	0.7	-220	25	50	-160	200	700	520	700	360	800														
+20	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/120.png	0	0	1.2	1	0	0	0.4	0.4	-230	20	50	-180	200	700	520	700	360	800														
+21	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/121.png	0	0	1.2	1	0	0	0.7	0.7	-260	25	50	-180	200	700	520	700	360	800														
+22	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/122.png	0	0	1	1	0	0	0.8	0.8	-210	20	30	-160	200	700	520	700	360	800														
+23	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh01.png	0	0	1.2	1	0	0	0.7	0.7	-260	25	50	-180	200	750	520	750																
+24	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh02.png	0	0	1.2	1	-13	0	0.35	0.35	-240	30	30	-160	200	700	520	700	360	800														
+25	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh03.png	5	0	1.2	1	5	0	0.35	0.35	-240	30	50	-160	200	700	520	700	360	800														
+26	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh04.png	16	0	1	1	18	0	0.35	0.35	-240	33	30	-160	200	700	520	700	360	800														
+27	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh05.png	0	0	1.5	1	0	0	0.6	0.6	-240	8	50	-180	200	750	520	750																
+28	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh06.png	0	0	1.5	1	0	0	0.6	0.6	-240	8	50	-180	200	750	520	750																
+29	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh07.png	0	0	1	1	28	0	0.5	0.5	-200	25	30	-140	200	700	520	700	360	800														
+30	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh08.png	5	0	1.3	1.2	0	0	0.7	0.7	-380	15	50	-300	200	700	520	700																
+31	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh09.png	0	0	1.3	1.2	0	0	0.9	0.9	-320	18	50	-220	200	750	520	750																
+32	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh10.png	0	0	1.5	1	0	0	0.6	0.6	-220	10	-20	-140	200	750	520	750																
+33	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh11.png	0	0	1.1	1	0	0	0.6	0.6	-280	18	50	-180	200	750	520	750																
+34	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh12.png	0	0	1.5	1	0	0	0.55	0.55	-220	5	-20	-140	200	750	520	750																
+35	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh13.png	0	0	1.2	1	0	0	0.4	0.4	-250	20	50	-180	200	700	520	700	360	800														
+36	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh14.png	0	0	0.8	1	0	0	0.55	0.55	-230	30	50	-180	200	700	520	700	360	800														
+37	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh15.png	0	0	1.2	1	40	0	0.7	0.7	-310	30	50	-270	180	750	480	750																
+38	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh16.png	0	0	0.8	1	0	0	0.4	0.4	-220	25	50	-140	200	700	520	700	360	800														
+39	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh17.png	20	0	0.8	1	20	0	0.5	0.5	-180	30	30	-110	200	700	520	700	360	800														
+40	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh18.png	0	0	1	1	0	0	0.5	0.5	-200	10	50	-160	200	700	520	700	360	800														
+41	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh19.png	0	0	1.5	1	0	0	0.6	0.6	-250	10	50	-180	200	750	520	750																
+42	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh20.png	0	0	1.5	1	0	0	0.6	0.6	-250	10	50	-180	200	750	520	750																
+43	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh21.png	0	0	1.5	1	0	0	0.6	0.6	-250	10	50	-180	200	750	520	750																
+44	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh22.png	0	0	1.5	1	0	0	0.6	0.6	-180	8	50	-120	200	750	520	750																
+45	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh23.png	0	0	1.5	1	0	0	0.7	0.7	-230	8	50	-180	200	750	520	750																
+46	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh24.png	0	0	0.8	1	0	0	0.5	0.5	-260	25	50	-180	200	700	520	700	360	800														
+47	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh25.png	0	0	0.8	1	0	0	0.4	0.4	-230	22	50	-180	200	700	520	700	360	800														
+48	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh26.png	0	0	1	1	0	0	0.6	0.6	-210	20	50	-140	200	700	520	700	360	800														
+49	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh27.png	0	0	1.5	1	0	0	0.55	0.55	-260	8	50	-180	200	750	520	750																
+50	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh28.png	0	0	1	1	0	0	0.3	0.3	-170	20	50	-120	200	700	520	700	360	800														
+51	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh29.png	0	0	1.2	1	0	0	0.5	0.5	-220	12	50	-120	200	700	520	700	360	800														
+52	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh30.png	0	0	1.2	1	0	0	0.6	0.6	-220	12	50	-160	200	700	520	700	360	800														
+53	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh31.png	0	0	1.2	1	0	0	0.3	0.3	-180	12	50	-160	200	700	520	700	360	800														
+54	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh32.png	0	0	1	1	0	0	0.45	0.45	-210	15	50	-160	200	700	520	700	360	800														
+55	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh33.png	0	0	1	1	0	0	0.45	0.45	-190	20	50	-120	200	700	520	700	360	800														
+56	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh34.png	0	0	1	1	-15	0	0.6	0.6	-170	20	50	-100	200	700	520	700	360	800														
+57	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh35.png	0	0	0.8	1	0	0	0.6	0.6	-300	35	40	-250	200	700	520	700	360	800														
+58	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh36.png	0	0	1.2	1	-10	0	0.45	0.45	-180	20	80	-120	200	700	520	700	360	800														
+59	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh37.png	0	0	0.8	1	-10	0	0.45	0.45	-190	30	40	-130	200	700	520	700	360	800														
+60	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh38.png	0	0	1.4	1	0	0	0.6	0.6	-200	8	40	-130	200	750	520	750																
+61	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh39.png	0	0	1	1	20	0	0.45	0.45	-230	20	10	-140	200	700	520	700	360	800														
+62	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh40.png	0	0	0.8	1	0	0	0.35	0.35	-160	30	30	-80	200	700	520	700	360	800														
+63	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh41.png	0	0	0.6	1	0	0	0.35	0.35	-160	30	30	-80	200	700	520	700	360	800														
+64	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh42.png	0	0	0.6	1	0	0	0.4	0.4	-160	30	30	-80	200	700	520	700	360	800														
+65	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh43.png	0	0	1	1	0	0	0.4	0.4	-240	18	30	-140	200	700	520	700	360	800														
+66	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh44.png	0	0	0.7	1	10	0	0.45	0.45	-160	35	30	-100	200	700	520	700	360	800														
+67	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh46.png	0	0	0.7	1	0	0	0.4	0.4	-220	25	30	-140	200	700	520	700	360	800														
+68	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh47.png	-15	0	0.7	1	-15	0	0.6	0.6	-250	27	70	-180	200	700	520	700	360	800														
+69	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh48.png	10	0	1	1	0	0	0.6	0.6	-200	20	-20	-160	200	700	520	700	360	800														
+70	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh49.png	0	0	1	1	0	0	0.6	0.6	-180	20	30	-120	200	700	520	700	360	800														
+71	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh50.png	0	0	1	1	0	0	0.6	0.6	-200	20	30	-120	200	700	520	700	360	800														
+72	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh51.png	0	0	0.6	1	0	0	0.25	0.25	-160	29	30	-120	200	700	520	700	360	800														
+73	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh52.png	0	0	0.6	1	0	0	0.5	0.5	-160	33	30	-120	200	700	520	700	360	800														
+74	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh53.png	0	0	1	1	0	0	0.4	0.4	-160	20	30	-120	200	700	520	700	360	800														
+75	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh54.png	0	0	0.8	1	0	0	0.4	0.4	-150	30	30	-100	200	700	520	700	360	800														
+76	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh55.png	0	0	1	1	0	0	0.4	0.4	-170	20	30	-100	200	700	520	700	360	800														
+77	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh56.png	0	0	1	1	0	0	0.4	0.4	-190	15	30	-140	200	700	520	700	360	800														
+78	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh57.png	0	0	1	1	0	0	0.4	0.4	-150	17	30	-100	200	700	520	700	360	800														
+79	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh58.png	0	0	0.5	1	0	0	0.6	0.6	-140	35	30	-80	200	700	520	700	360	800														
+80	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh59.png	0	0	0.8	1	0	0	0.4	0.4	-190	27	30	-120	200	700	520	700	360	800														
+81	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh60.png	0	0	1	1	0	0	0.4	0.4	-220	22	30	-140	200	700	520	700	360	800														
+82	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh61.png	0	0	1.2	1	0	0	0.55	0.55	-200	14	70	-140	200	700	520	700	360	800														
+83	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh62.png	0	0	1	1	0	0	0.5	0.5	-230	27	70	-140	200	700	520	700	360	800														
+84	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh63.png	0	0	1	1	0	0	0.4	0.4	-230	30	70	-140	200	700	520	700	360	800														
+85	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh64.png	0	0	0.8	1	10	0	0.4	0.4	-180	30	50	-120	200	700	520	700	360	800														
+86	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh66.png	0	0	1	1	0	0	0.5	0.5	-180	18	30	-100	200	700	520	700	360	800														
+87	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh67.png	0	0	0.8	1	20	0	0.5	0.5	-300	33	30	-250	200	700	520	700	360	800														
+88	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh68.png	0	0	0.8	1	0	0	0.5	0.5	-200	32	30	-150	200	700	520	700	360	800														
+89	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh69.png	0	0	0.8	1	0	0	0.6	0.6	-220	25	30	-150	200	700	520	700	360	800														
+90	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh70.png	0	0	1	1	0	0	0.5	0.5	-240	20	30	-180	200	700	520	700	360	800														
+91	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh71.png	0	0	0.8	1	0	0	0.6	0.6	-220	27	30	-150	200	700	520	700	360	800														
+92	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh72.png	0	0	1	1	0	0	0.6	0.6	-230	15	30	-150	200	700	520	700	360	800														
+93	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh73.png	0	0	1	1	0	0	0.8	0.8	-230	18	30	-150	200	700	520	700	360	800														
+94	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh74.png	0	0	1	1	0	0	0.55	0.55	-200	12	30	-150	200	700	520	700	360	800														
+95	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh75.png	0	0	1	1	0	0	0.55	0.55	-230	18	30	-150	200	700	520	700	360	800														
+96	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh76.png	0	0	0.8	1	0	0	0.55	0.55	-160	28	30	-100	200	700	520	700	360	800														
+97	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh77.png	0	0	0.5	1	0	0	0.7	0.7	-190	40	30	-140	200	700	520	700	360	800														
+98	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh78.png	10	0	0.5	1	-10	0	0.7	0.7	-200	20	30	-140	200	700	520	700	360	800														
+99	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh79.png	0	0	0.5	1	0	0	0.7	0.7	-150	35	30	-80	200	700	520	700	360	800														
+100	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh80.png	0	0	1	1	0	0	0.7	0.7	-200	22	30	-140	200	700	520	700	360	800														
+101	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh81.png	0	0	1.5	1	0	0	0.4	0.4	-200	8	30	-140	200	750	520	750																
+102	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh82.png	0	0	1.5	1	0	0	0.5	0.5	-220	8	30	-180	200	750	520	750																
+103	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh83.png	0	0	0.8	1	0	0	0.5	0.5	-210	27	30	-140	200	700	520	700	360	800														
+104	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh84.png	0	0	1	1	0	0	0.55	0.55	-190	16	30	-100	200	700	520	700	360	800														
+105	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh85.png	0	0	1.3	1.2	0	0	0.5	0.5	-180	12	30	-100	200	700	520	700	360	800														
+106	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh86.png	0	0	1	1	0	0	0.4	0.4	-220	25	30	-160	200	700	520	700	360	800														
+107	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh87.png	0	0	0.7	1	0	0	0.4	0.4	-190	30	30	-120	200	700	520	700	360	800														
+108	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh88.png	0	0	0.7	1	0	0	0.35	0.35	-230	28	30	-160	200	700	520	700	360	800														
+109	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh89.png	0	0	0.7	1	0	0	0.6	0.6	-190	30	30	-140	200	700	520	700	360	800														
+110	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wh90.png	0	0	1	1	0	0	0.6	0.6	-240	25	30	-180	200	700	520	700	360	800														
+111	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi091.png	0	0	1	1	0	0	0.6	0.6	-200	25	30	-140	200	700	520	700	360	800														
+112	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi092.png	0	0	1	1	0	0	0.6	0.6	-200	27	30	-140	200	700	520	700	360	800														
+113	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi093.png	-12	0	1	1	-12	0	0.6	0.6	-200	30	30	-140	200	700	520	700	360	800														
+114	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi094.png	0	0	1.2	1	0	0	0.6	0.6	-220	15	30	-140	200	700	520	700	360	800														
+115	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi095.png	0	0	1.2	1	0	0	0.6	0.6	-210	12	30	-140	200	700	520	700	360	800														
+116	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi096.png	0	0	1.4	1	0	0	0.55	0.55	-210	6	30	-140	200	700	520	700	360	800														
+117	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi097.png	0	0	1.4	1	0	0	0.7	0.7	-210	6	30	-140	200	700	520	700	360	800														
+118	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi098.png	0	0	1	1	20	0	0.45	0.45	-230	24	30	-140	200	700	520	700	360	800														
+119	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi099.png	0	0	1.4	1	0	0	0.65	0.65	-240	10	30	-160	200	750	520	750																
+120	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi100.png	0	0	0.8	1	0	0	0.65	0.65	-280	30	30	-220	200	700	520	700	360	800														
+121	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi101.png	0	0	1.2	1	0	0	0.45	0.45	-220	15	30	-150	200	700	520	700	360	800														
+122	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi102.png	0	0	1.2	1	0	0	0.45	0.45	-220	15	30	-150	200	700	520	700	360	800														
+123	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi103.png	-10	0	1.2	1	-10	0	0.5	0.5	-180	22	30	-120	200	700	520	700	360	800														
+124	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi104.png	0	0	1.2	1	0	0	0.45	0.45	-220	15	30	-150	200	700	520	700	360	800														
+125	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi105.png	0	0	1.1	1	0	0	0.5	0.5	-180	22	30	-100	200	700	520	700	360	800														
+126	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi106.png	0	0	0.8	1	0	0	0.5	0.5	-200	30	30	-140	200	700	520	700	360	800														
+127	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi107.png	0	0	1	1	15	0	0.45	0.45	-240	23	30	-140	200	700	520	700	360	800														
+128	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi108.png	0	0	1.2	1	0	0	0.5	0.5	-210	15	30	-140	200	700	520	700	360	800														
+129	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi109.png	0	0	0.8	1	0	0	0.5	0.5	-230	25	30	-140	200	700	520	700	360	800														
+130	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi110.png	0	0	1.4	1	0	0	0.6	0.6	-240	8	30	-180	200	750	520	750																
+131	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi111.png	20	0	1.4	1	10	0	0.4	0.4	-350	18	30	-320	200	750	520	750																
+132	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi112.png	0	0	1.4	1	0	0	0.6	0.6	-240	8	30	-200	200	750	520	750																
+133	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi113.png	0	0	1.4	1	0	0	0.6	0.6	-220	10	30	-180	200	750	520	750																
+134	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi114.png	0	0	0.6	1	0	0	0.6	0.6	-280	35	30	-220	200	700	520	700	360	800														
+135	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi115.png	-5	0	0.8	1	-5	0	0.6	0.6	-220	32	30	-160	200	700	520	700	360	800														
+136	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi116.png	0	0	0.8	1	0	0	0.6	0.6	-250	28	30	-160	200	700	520	700	360	800														
+137	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi117.png	15	0	0.8	1	15	0	0.5	0.5	-270	20	30	-160	200	700	520	700	360	800														
+138	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi118.png	15	0	1.2	1	15	0	0.5	0.5	-290	20	30	-220	200	700	520	700	360	800														
+139	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi119.png	0	0	1.4	1	0	0	0.75	0.75	-240	8	30	-180	200	750	520	750																
+140	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi120.png	0	0	1.4	1	0	0	0.6	0.6	-250	12	30	-220	200	750	520	750																
+141	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi121.png	0	0	0.8	1	0	0	0.5	0.5	-220	26	30	-160	200	700	520	700	360	800														
+142	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi122.png	0	0	0.8	1	0	0	0.5	0.5	-240	26	30	-160	200	700	520	700	360	800														
+143	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi123.png	0	0	1.3	1	0	0	0.5	0.5	-210	8	30	-160	200	750	520	750																
+144	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi124.png	0	0	0.8	1	0	0	0.5	0.5	-230	27	30	-160	200	700	520	700	360	800														
+145	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi125.png	0	0	1	1	0	0	0.5	0.5	-230	34	30	-160	200	700	520	700	360	800														
+146	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi126.png	0	0	1.4	1	0	0	0.7	0.7	-240	10	30	-160	200	750	520	750																
+147	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi127.png	0	0	1.4	1	0	0	0.55	0.55	-240	10	30	-160	200	750	520	750																
+148	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi128.png	0	0	1	1	0	0	0.55	0.55	-230	32	30	-160	200	700	520	700	360	800														
+149	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi129.png	0	0	1	1	0	0	0.45	0.45	-200	10	30	-160	200	700	520	700	360	800														
+150	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi130.png	0	0	0.8	1	0	0	0.4	0.4	-200	23	30	-160	200	700	520	700	360	800														
+151	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi131.png	0	0	0.7	1	0	0	0.5	0.5	-160	30	30	-80	200	700	520	700	360	800														
+152	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi132.png	12	0	1	1	12	0	0.6	0.6	-250	22	30	-180	200	700	520	700	360	800														
+153	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi133.png	0	0	0.8	1	0	0	0.6	0.6	-220	30	30	-140	200	700	520	700	360	800														
+154	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi134.png	0	0	0.8	1	0	0	0.6	0.6	-180	30	30	-140	200	700	520	700	360	800														
+155	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi135.png	0	0	1	1	0	0	0.6	0.6	-220	24	30	-140	200	700	520	700	360	800														
+156	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi136.png	13	0	1.1	1	10	0	0.5	0.5	-230	20	30	-180	200	700	520	700	360	800														
+157	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi137.png	11	0	1.1	1	8	0	0.5	0.5	-230	24	30	-180	200	700	520	700	360	800														
+158	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi138.png	0	0	1.4	1	0	0	0.6	0.6	-250	8	30	-180	200	750	520	750																
+159	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi139.png	0	0	1.5	1	0	0	0.55	0.55	-250	8	30	-180	200	750	520	750																
+160	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi140.png	0	0	1.2	1	0	0	0.45	0.45	-220	15	30	-180	200	700	520	700	360	800														
+161	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi141.png	0	0	1.1	1	0	0	0.55	0.55	-220	17	30	-180	200	700	520	700	360	800														
+162	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi142.png	0	0	1.1	1	0	0	0.6	0.6	-160	12	30	-100	200	700	520	700	360	800														
+163	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi143.png	-15	0	1.1	1	-15	0	0.45	0.45	-400	35	30	-360	200	750	520	750																
+164	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi144.png	0	0	1.3	1	0	0	0.4	0.4	-150	15	30	-100	200	700	520	700	360	800														
+165	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi145.png	0	0	0.9	1	0	0	0.6	0.6	-290	33	30	-220	200	700	520	700	360	800														
+166	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi146.png	0	0	0.9	1	0	0	0.6	0.6	-290	33	30	-220	200	700	520	700	360	800														
+167	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi147.png	0	0	0.9	1	0	0	0.3	0.3	-270	28	30	-220	200	700	520	700	360	800														
+168	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/wi148.png	0	0	1.2	1	0	0	0.5	0.5	-140	8	30	-100	200	700	520	700	360	800														
+169	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xn149.png	0	-10	1	1	0	-8	0.5	0.5	-220	24	50	-160	200	700	520	700	360	800														
+170	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/108.png	0	0	1.2	1	0	0	1.1	1.1	-220	18	50	-180	200	700	520	700	360	800														
+171	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs1.png	0	-10	1	1	0	-8	0.7	0.7	-220	26	50	-160	200	700	520	700	360	800														
+172	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs2.png	0	-10	1.2	1.2	0	-8	0.9	0.9	-260	18	50	-200	200	700	520	700	360	800														
+173	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs3.png	0	-10	1.2	1.2	0	-8	0.8	0.8	-230	25	50	-160	200	700	520	700	360	800														
+174	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs4.png	0	-10	1	1	0	-8	0.8	0.8	-240	27	50	-200	200	700	520	700	360	800														
+175	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs5.png	0	-10	1.2	1.2	0	-8	0.8	0.8	-220	20	50	-160	200	700	520	700	360	800														
+176	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs6.png	0	0	1	1	0	0	0.7	0.7	-220	26	30	-160	200	700	520	700	360	800														
+177	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs7.png	0	0	1.2	1.2	0	0	1	1	-290	22	30	-250	200	700	520	700	360	800														
+178	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs8.png	0	0	1.1	1.1	0	0	1	1	-290	22	30	-250	200	700	520	700	360	800														
+179	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs9.png	0	0	1.1	1.1	0	0	0.7	0.7	-200	18	30	-120	200	700	520	700	360	800														
+180	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs10.png	0	0	1.1	1.1	0	0	0.8	0.8	-200	13	30	-120	200	700	520	700	360	800														
+181	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs11.png	12	0	1.1	1.1	12	0	1	1	-300	28	30	-240	200	700	520	700	360	800														
+182	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs12.png	0	0	1.1	1.1	0	0	0.8	0.8	-240	28	30	-180	200	700	520	700	360	800														
+183	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs13.png	0	0	1.3	1.3	0	0	0.8	0.8	-180	12	-20	-120	200	700	520	700	360	800														
+184	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs14.png	0	0	1.2	1.2	0	0	0.8	0.8	-250	18	30	-200	200	700	520	700	360	800														
+185	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs15.png	0	0	1	1	0	0	1	1	-180	22	30	-120	200	700	520	700	360	800														
+186	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs16.png	2	0	1.2	1.2	2	0	0.8	0.8	-200	25	30	-130	200	700	520	700	360	800														
+187	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs17.png	0	0	1	1	0	0	0.8	0.8	-200	25	30	-130	200	700	520	700	360	800														
+188	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs18.png	0	0	1	1	0	0	0.8	0.8	-220	22	30	-150	200	700	520	700	360	800														
+189	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs19.png	0	0	1	1	0	0	0.8	0.8	-240	17	30	-100	200	700	520	700	360	800														
+190	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs20.png	0	0	1.3	1.3	0	0	0.7	0.7	-140	11	30	-100	200	700	520	700	360	800														
+191	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs21.png	0	0	1.2	1.2	0	0	0.8	0.8	-160	16	85	-100	200	700	520	700	360	800														
+192	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs22.png	-10	0	1.2	1.2	-10	0	0.8	0.8	-200	28	30	-140	200	700	520	700	360	800														
+193	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs23.png	0	0	1.3	1.3	0	0	0.6	0.6	-200	12	30	-140	200	700	520	700	360	800														
+194	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs24.png	0	0	1.2	1.2	0	0	0.8	0.8	-250	25	30	-180	200	700	520	700	360	800														
+195	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs25.png	-23	0	1	1	-23	0	0.8	0.8	-240	28	60	-180	200	700	520	700	360	800														
+196	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs26.png	0	0	0.9	0.9	0	0	0.8	0.8	-220	29	30	-160	200	700	520	700	360	800														
+197	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs27.png	0	0	1.2	1.2	0	0	0.4	0.4	-180	17	30	-120	200	700	520	700	360	800														
+198	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs28.png	0	0	0.8	0.8	0	0	0.3	0.3	-290	28	30	-220	200	700	520	700	360	800														
+199	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs29.png	0	0	0.8	0.8	0	0	0.3	0.3	-310	28	30	-220	200	700	520	700	360	800														
+200	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs30.png	0	0	0.8	0.8	0	0	0.3	0.3	-250	28	30	-220	200	700	520	700	360	800														
+201	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs31.png	0	0	0.8	0.8	0	0	0.4	0.4	-270	32	30	-220	200	700	520	700	360	800														
+202	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs32.png	0	0	0.8	0.8	0	0	0.5	0.5	-250	30	30	-220	200	700	520	700	360	800														
+203	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs33.png	0	0	1.2	1.2	0	0	0.3	0.3	-250	26	30	-220	200	700	520	700	360	800														
+204	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs34.png	0	0	1.4	1.4	0	0	0.5	0.5	-230	26	30	-160	200	700	520	700	360	800														
+205	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs35.png	0	0	0.8	0.8	0	0	0.5	0.5	-230	33	30	-160	200	700	520	700	360	800														
+206	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs36.png	0	0	1.2	1.2	0	0	0.5	0.5	-190	18	30	-120	200	700	520	700	360	800														
+207	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs37.png	-2	0	0.8	0.8	-2	0	0.6	0.6	-280	34	30	-220	200	700	520	700	360	800														
+208	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs38.png	-7	0	1.2	1.2	-7	0	0.7	0.7	-160	18	80	-120	200	700	520	700	360	800														
+209	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs39.png	0	0	1.2	1.2	0	0	0.5	0.5	-170	10	-20	-100	200	700	520	700	360	800														
+210	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs40.png	-2	0	0.8	0.8	-2	0	0.5	0.5	-190	30	30	-120	200	700	520	700	360	800														
+211	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs41.png	0	0	1	1	0	0	0.4	0.4	-190	26	30	-120	200	700	520	700	360	800														
+212	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs42.png	0	0	1	1	0	0	0.4	0.4	-190	30	30	-140	200	700	520	700	360	800														
+213	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs43.png	0	0	0.8	0.8	0	0	0.4	0.4	-210	35	30	-140	200	700	520	700	360	800														
+214	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs44.png	0	0	1	1	0	0	0.6	0.6	-210	30	30	-120	200	700	520	700	360	800														
+215	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs45.png	0	0	1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+216	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs46.png	0	0	1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+217	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs47.png	0	0	1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+218	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs48.png	0	0	1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+219	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs49.png	0	0	1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+220	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs50.png	0	0	1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+221	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs51.png	0	0	1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+222	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs52.png	0	0	1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+223	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs53.png	0	0	1	1	-3	0	0.5	0.5	-180	30	50	-160	200	700	520	700	360	800														
+224	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs54.png	0	0	1.2	1.2	0	0	0.5	0.5	-180	30	30	-140	200	700	520	700	360	800														
+225	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs55.png	0	0	1	1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+226	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs56.png	0	0	1.2	1.2	0	0	0.5	0.5	-190	26	30	-120	200	700	520	700	360	800														
+227	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs57.png	0	0	1.1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+228	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs58.png	0	0	1.1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+229	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs59.png	0	0	1	1	0	0	0.5	0.5	-180	30	50	-130	200	700	520	700	360	800														
+230	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs60.png	0	0	1	1	0	0	0.5	0.5	-180	30	35	-200	200	700	520	700	360	800														
+231	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs61.png	0	-10	1	1	0	10	0.5	0.5	-180	28	50	-120	200	700	520	700	360	800														
+232	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs62.png	0	0	1	1	0	0	0.5	0.5	-180	28	50	-120	200	700	520	700	360	800														
+233	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs63.png	0	0	1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+234	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs64.png	0	0	1.2	1	0	0	0.5	0.5	-180	30	60	-200	200	700	520	700	360	800														
+235	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs65.png	0	0	1.2	1.2	0	0	0.4	0.5	-180	30	30	-120	200	700	520	700	360	800														
+236	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs66.png	0	0	1	1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+237	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs67.png	0	0	1	1	0	0	0.5	0.5	-180	30	40	-140	200	700	520	700	360	800														
+239	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs68.png	0	-10	1	1	0	10	0.5	0.5	-180	30	40	-120	200	700	520	700	360	800														
+240	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs69.png	0	-20	1	1	0	20	0.4	0.4	-180	30	30	-140	200	700	520	700	360	800														
+241	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs70.png	0	-10	1.1	1.1	0	10	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+242	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs71.png	0	0	1	1	0	0	0.5	0.5	-180	30	40	-120	200	700	520	700	360	800														
+243	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs72.png	0	0	1.2	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+244	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs73.png	0	-10	1.2	1	0	10	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+245	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs74.png	0	-10	1.1	1	0	0	0.4	0.4	-180	30	30	-140	200	700	520	700	360	800														
+246	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs75.png	0	-10	1.2	1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+247	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs76.png	0	0	1.2	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+248	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs77.png	0	0	1.1	1	0	0	0.5	0.5	-180	30	50	-140	200	700	520	700	360	800														
+249	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs78.png	0	0	1.1	1	0	0	0.4	0.4	-180	30	40	-120	200	700	520	700	360	800														
+250	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs79.png	0	-20	1	1	0	20	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+251	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs80.png	0	-10	1.2	1	0	10	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+252	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs81.png	0	0	1	1	0	10	0.5	0.5	-180	30	40	-120	200	700	520	700	360	800														
+253	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/xs82.png	0	-10	1	1	0	0	0.5	0.5	-180	30	40	-120	200	700	520	700	360	800														
+255	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm101.png	0	0	1	1	0	0	0.5	0.5	-180	30	50	-140	200	700	520	700	360	800														
+256	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm102.png	0	0	1	1	0	0	0.5	0.5	-180	30	50	-150	200	700	520	700	360	800														
+257	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm103.png	0	0	1.1	1	0	0	0.4	0.4	-180	30	30	-120	200	700	520	700	360	800														
+258	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm104.png	0	0	1	1	0	0	0.5	0.5	-180	30	50	-150	200	700	520	700	360	800														
+259	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm105.png	0	0	1.1	1	0	0	0.5	0.5	-180	30	40	-120	200	700	520	700	360	800														
+260	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm106.png	0	0	1.1	1	0	0	0.4	0.5	-180	30	30	-120	200	700	520	700	360	800														
+261	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm107.png	0	0	1	1	0	0	0.4	0.5	-180	30	50	-150	200	700	520	700	360	800														
+262	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm108.png	0	0	1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+263	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm109.png	0		1.1	1	0	10	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+264	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm110.png	0	-10	1.2	1	0	10	0.4	0.4	-180	30	30	-120	200	700	520	700	360	800														
+265	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm111.png	0	0	1.1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+266	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm112.png	0	-10	1.1	1	0	0	0.4	0.4	-180	30	30	-120	200	700	520	700	360	800														
+267	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm113.png	0	0	1.1	1	0	0	0.4	0.4	-180	30	60	-120	200	700	520	700	360	800														
+268	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm114.png	0	-10	1.1	1	0	0	0.5	0.5	-180	30	30	-120	200	700	520	700	360	800														
+269	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm115.png	0	0	1.1	1	0	0	0.4	0.4	-180	30	30	-120	200	700	520	700	360	800														
+270	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm116.png	0	0	1.1	1	0	0	0.4	0.4	-180	30	40	-120	200	700	520	700	360	800														
+271	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm117.png	0	0	1.1	1	0	0	0.4	0.4	-180	30	40	-120	200	700	520	700	360	800														
+272	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm118.png	0	0	1.1	1	0	0	0.6	0.6	-170	30	50	-110	200	700	520	700	360	800														
+273	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm119.png	0	0	1.1	1	0	0	0.6	0.6	-180	30	50	-180	200	700	520	700	360	800														
+274	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm120.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+275	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm121.png	0	0	1.1	1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+276	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm122.png	0	0	1	1	0	0	0.5	0.5	-180	30	40	-120	200	700	520	700	360	800														
+277	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/qm123.png	0	0	1	1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+278	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy001.png	0	0	1.1	1.1	0	0	0.4	0.4	-180	30	50	-120	200	700	520	700	360	800														
+279	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy002.png	0	0	1.1	1	0	0	0.5	0.5	-180	30	50	-140	200	700	520	700	360	800														
+280	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy003.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+281	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy004.png	0	0	1.1	1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+282	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy005.png	0	0	1.1	1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+283	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy006.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+284	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy007.png	0	0	1.1	1	0	0	0.4	0.4	-180	30	50	-120	200	700	520	700	360	800														
+285	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy008.png	0	0	1.1	1.1	0	0	0.5	0.4	-180	30	50	-120	200	700	520	700	360	800														
+286	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy009.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+287	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy010.png	0	0	1.1	1.1	0	0	0.4	0.4	-180	30	50	-120	200	700	520	700	360	800														
+288	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy011.png	0	0	1.1	1.1	0	0	0.6	0.6	-180	30	50	-120	200	700	520	700	360	800														
+289	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy012.png	0	0	1.1	1.1	0	0	0.6	0.6	-180	30	50	-120	200	700	520	700	360	800														
+290	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy013.png	0	0	1.1	1.1	0	0	0.6	0.6	-180	30	50	-120	200	700	520	700	360	800														
+291	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy014.png	0	0	1.1	1.1	0	0	0.6	0.6	-180	30	50	-120	200	700	520	700	360	800														
+292	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy015.png	0	-10	1.1	1.1	0	10	0.6	0.6	-180	30	50	-120	200	700	520	700	360	800														
+293	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy016.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+294	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy017.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+295	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/sy018.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+302	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw001.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+303	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw002.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+304	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw003.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+305	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw004.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+306	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw005.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+307	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw006.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+308	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw007.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+309	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw008.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+310	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw009.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+311	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw010.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+312	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw011.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+313	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw012.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+314	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw013.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+315	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw014.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+316	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw015.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+317	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw016.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+318	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw017.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+319	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw018.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+320	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw019.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+321	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw020.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+322	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw021.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+323	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw022.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+324	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw023.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+325	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw024.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+326	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw025.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+327	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw026.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+328	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw027.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+329	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw028.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														
+330	http://zww.ooxxp.com/zwwimg/h5jyzwwimg/Dolls/mw029.png	0	0	1.1	1.1	0	0	0.5	0.5	-180	30	50	-120	200	700	520	700	360	800														

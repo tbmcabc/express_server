@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head >
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+	<meta name="description" content="">
+	<meta name="author" content="">	
+
+</head>
+<style>
+    .alsp{ font-family:"黑体";}
+    body {
+    	margin: 0px;
+		background: #F7F7F7;
+	}
+
+
+  	.red-text {
+    color: red;
+  	}
+   .huise-text {
+	    color: #888888;
+	    margin-left: 15px;
+	    font-size: 15px;
+	  }
+ 	.huise2 {
+	    color: #888888;
+	    margin-left: 0px;
+	    font-size: 14px;
+	  }
+  	.jiage {
+    font-size: 36px;
+    margin-left: 15px;
+  }
+  	.jindong{
+  	font-size: 22px;
+  	margin-left: 15px;
+    }
+  	.jifen{
+  	font-size: 18px;
+  	
+    }
+	.banner {
+		margin-top: 5px;
+		margin-left: 15px;
+		width: 100vw;
+		height: 105px;
+		background: #eeeeee
+	}
+    .banner1 {
+		margin-top: 0px;
+		margin-left: 0px;
+		width: 100vw;
+		height: 2px;
+		background: #eeeeee
+	}
+ 	.banner2 {
+		margin-top: 5px;
+		margin-left: 0px;
+		width: 100vw;
+		height: 2px;
+		background: #eeeeee
+	}
+	.zishiying img{width:100%;height:100%;}	
+	.zishiying2 img{width:100%;height:8px;margin-top: 12px;}	
+     input {border: 1px solid #D0CCCC;
+     		height: 26px;
+     		width: 220px;
+     }
+</style>
+<body class="alsp">
+
+	<div style="text-align:center" class="zishiying">
+		<img src="http://zww.ooxxp.com/zwwimg/dianxing_10.png">
+		<!-- <img src="\Users\Administrator\Desktop\qb_da10.png"> -->
+	</div>
+	<div class="banner1">
+	</div>
+	<div >
+		</br>
+		<div class="jindong"><strong>电信话费卡10元（面值10元）</strong></div>
+
+		<label class="red-text jiage">1200</label><a class="red-text jifen">积分 </br>
+		</a></br>
+			
+	</div>
+
+	<div class="banner2">
+	</div>
+
+	<div>
+
+		
+		<div style="margin-top: 5px;margin-left: 15px"><strong>手机号码 </strong>
+	     <input id="txtPhone" type="text" onkeyup="if(!/^\d+$/.test(this.value)) {this.value=this.value.replace(/[^\d]+/g,'');}" maxlength="11" style="border-radius: 3px; background:#D0CCCC" placeholder=" 点击此处进行输入"  />
+	    <div class="huise2"style="margin-top:15px">
+			温馨提示：输入后请再次确认，谨防输错
+		</div>
+		</div>
+		<div class="huise-text"style="margin-top:15px">发货方式：
+			<strong>仅支持电信手机号，兑换后立即到账</strong></br>
+		</div>	
+	</div>
+	<div   class="zishiying2 ">
+		<img src="http://zww.ooxxp.com/zwwimg/tiao_01.png">
+	</div></br>
+
+	
+		<label class="huise-text ">
+		活动规则：</label></br>
+		<div class="banner2">
+	    </div>
+	<div style="margin-left:15px" >
+		<strong>
+		<p size="10px">
+	    电信话费卡10元（面值10元） 需要1200积分。</br>
+		请输入需要充值的手机号码后，点击立即兑换。.....</p>
+		</strong>
+
+	</div>
+	
+
+	<div class="banner2">
+	</div>
+
+	<script>
+	// Android需要调用的方法
+	   function getPhone(){
+	   	 return document.getElementById("txtPhone").value
+	   }
+	</script>
+</body>
+
+</html>

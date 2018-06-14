@@ -1,0 +1,3 @@
+﻿$键	值	描述
+#key	value	tips
+water_line	0	服务器水线(单位为分)
